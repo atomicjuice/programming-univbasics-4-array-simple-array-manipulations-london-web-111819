@@ -35,5 +35,5 @@ array.uniq
 end
 
 def using_flatten(array, string)
-array.flatten("#{strings}")
+array.flatten #("#{strings}")
 end
